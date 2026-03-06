@@ -99,7 +99,7 @@ button:hover {
 }
 
 #image {
-    background-image: url("/content/alienfloor2_diffuse.jpg"); /* Credit: TinyWorlds on OpenGameArt (https://opengameart.org/content/alien-floor)*/
+    background-image: url("content/alienfloor2_diffuse.jpg"); /* Credit: TinyWorlds on OpenGameArt (https://opengameart.org/content/alien-floor*/
     border-radius: var(--hero-corners);
 }
 
