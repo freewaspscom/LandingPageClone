@@ -147,7 +147,7 @@ button:hover {
     width: max(695px, 90%);
 }
 body {
-    font-size: x-large;
+    font-size: larger;
 }
 }
 
