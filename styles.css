@@ -146,6 +146,9 @@ button:hover {
 .navbar {
     width: max(695px, 90%);
 }
+body {
+    font-size: x-large;
+}
 }
 
 @media (min-width: 1280px) {
